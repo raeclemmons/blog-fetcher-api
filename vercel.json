@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/fetch-content.js": {
+      "runtime": "@vercel/node"
+    }
+  }
+}
